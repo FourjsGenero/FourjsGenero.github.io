@@ -1,2 +1,2 @@
 # fourjsgenero.github.io
-GitHub Page for FourJsGenero repository
+GitHub Pages for FourJsGenero repository and available resources
